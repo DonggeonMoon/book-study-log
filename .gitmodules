@@ -1,0 +1,9 @@
+[submodule "자바에서 코틀린으로"]
+	path = 자바에서 코틀린으로
+	url = https://github.com/DonggeonMoon/java-to-kotlin-study.git
+[submodule "이펙티브 소프트웨어 테스팅"]
+	path = 이펙티브 소프트웨어 테스팅
+	url = https://github.com/MoonKimTeam/Effective-Software-Testing.git
+[submodule "Tidy First"]
+	path = Tidy First
+	url = https://github.com/MoonKimTeam/Tidy-First.git
